@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.div2 {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  padding: 0 5px 0 5px;
+  font-size: 20px;
+}
+
+ul, li {
+  list-style-type: none;
+}
